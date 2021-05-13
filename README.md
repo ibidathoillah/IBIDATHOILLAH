@@ -2,6 +2,7 @@
 <p align="center"><br>
   <samp>
     「 Computer Science Bachelor of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
+    「 Computer Science Student Exchange of @ 🐦 <b>Northern University of Malaysia</b> 」<br>
   </samp>
 </p>
 <details align="center">
