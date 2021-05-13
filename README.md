@@ -1,8 +1,9 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ibidathoillah.dev">Ibid Athoillah</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Science Bachelor of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
-    「 Computer Science Student Exchange of @ 🐦 <b>Northern University of Malaysia</b> 」<br>
+    「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
+    「 Student Exchange  Computer Science of @ 🐦 <b>Northern University of Malaysia</b> 」<br>
+    「 Work Journey : @smt, @payfazz, @titipaja, @titippaket 」<br>
   </samp>
 </p>
 <details align="center">
