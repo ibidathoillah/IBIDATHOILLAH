@@ -2,7 +2,7 @@
 <p align="center"><br>
   <samp>
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
-    「 Student Exchange  Computer Science of @ 🐦 <b>Northern University of Malaysia</b> 」<br>
+    「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a href="https://www.sevenmediatech.co.id">@smt</a>, <a href="https://www.payfazz.com/">@payfazz</a>, <a href="https://www.titipaja.id">@titipaja</a>, <a href="https://www.linkedin.com/company/titippaket/"> @titippaket</a> 」<br>
   </samp>
 </p>
