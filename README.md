@@ -4,8 +4,8 @@
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a href="https://www.sevenmediatech.co.id">@smt</a>, <a href="https://www.payfazz.com/">@payfazz</a>, <a href="https://www.titipaja.id">@titipaja</a>, <a href="https://www.linkedin.com/company/titippaket/"> @titippaket</a> 」<br>
+      <p>Play this, sometimes you need to cool things <a href="https://www.youtube.com/watch?v=yr3f5FCIFMI">click me!<a/></p>
   </samp>
-  <p>Play this, sometimes you need to cool things <a href="https://www.youtube.com/watch?v=yr3f5FCIFMI">click me!<a/></p>
 </p>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
