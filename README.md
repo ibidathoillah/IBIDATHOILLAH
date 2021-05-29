@@ -6,6 +6,8 @@
     「 Work Journey : <a href="https://www.sevenmediatech.co.id">@smt</a>, <a href="https://www.payfazz.com/">@payfazz</a>, <a href="https://www.titipaja.id">@titipaja</a>, <a href="https://www.linkedin.com/company/titippaket/"> @titippaket</a> 」<br>
   </samp>
 </p>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
