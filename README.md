@@ -8,7 +8,7 @@
   </samp>
 </p>
 <details align="center">
-   <summary> <samp>&#9776; View Statistics</samp></summary>
+   <summary> <samp>Statistics</samp></summary>
    <p align="center">
      <br>
       <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -27,7 +27,7 @@
   </p>
 </details>
 <details align="center">
-   <summary> <samp>&#9776; View My Favorites</samp></summary>
+   <summary> <samp>Favorites</samp></summary>
   
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
