@@ -35,6 +35,6 @@
     From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
   </p>
   <p align="right">
-    Mail me: ibidathoillah@gmail.com <img width="30" src="https://www.keyshapeapp.com/images/speech-bubbles.svg">
+    <a href"mailto:ibidathoillah@gmail.com"> <img width="20" src="https://www.keyshapeapp.com/images/speech-bubbles.svg"></a>
   </p>
 </samp>
