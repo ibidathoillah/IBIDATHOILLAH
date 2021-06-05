@@ -35,6 +35,6 @@
     From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
   </p>
   <p align="right">
-    <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
+    <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
   </p>
 </samp>
