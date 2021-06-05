@@ -7,8 +7,8 @@
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 
   </samp>
 </p>
-<details align="center">
-   <summary> <samp>Statistics</samp></summary>
+<details>
+   <summary> <samp>Statistics & Resume </samp></summary>
    <p align="center">
      <br>
       <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -26,8 +26,8 @@
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
-<details align="center">
-   <summary> <samp>Favorites</samp></summary>
+<details>
+   <summary> <samp>Favorites Music & Games</samp></summary>
   
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
