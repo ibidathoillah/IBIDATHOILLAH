@@ -32,6 +32,7 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a>
+    From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
+    Mail me: ibidathoillah@gmail.com <img width="50" src="https://www.keyshapeapp.com/images/speech-bubbles.svg">
   </p>
 </samp>
