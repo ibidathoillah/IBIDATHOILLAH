@@ -35,6 +35,6 @@
     From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
   </p>
   <p align="right">
-    <a href"mailto:ibidathoillah@gmail.com"> Mail </a>
+    <a href="mailto:ibidathoillah@gmail.com"> Mail </a>
   </p>
 </samp>
