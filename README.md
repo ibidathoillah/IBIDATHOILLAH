@@ -1,4 +1,4 @@
-<p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-3df15131b494.gif"></p>
+<p  align="center"><a href="#"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-3df15131b494.gif"></a></p>
 <h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.google.com/logos/2016/halloween16/halloween16.html?hl=en">Ibid Athoillah</a><a href="https://www.google.com/logos/2017/vday17/vday17-27917071.html?hl=en"><img style="float:left" width="30" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
 <p align="center">
   <samp>
@@ -28,13 +28,14 @@
 </details>
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>
-  
+  <br>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
     <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
   </p>
+    <br>
 </details>
-<p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></p>
+<p  align="center"><a href="#"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></a></p>
 
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
