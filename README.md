@@ -20,7 +20,6 @@
       <a href="https://github.com/ibidathoillah?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-       <img src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/SAMPLE%20PROJECT.svg"></img><br>
      
   <img src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://ibidathoillah.github.io/src/ibidathoillah_resume.pdf">Resumé</a><br>
