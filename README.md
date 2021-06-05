@@ -1,9 +1,8 @@
 <p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-3df15131b494.gif"></p>
 <h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.google.com/logos/2016/halloween16/halloween16.html?hl=en">Ibid Athoillah</a><a href="https://www.google.com/logos/2017/vday17/vday17-27917071.html?hl=en"><img style="float:left" width="30" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
 <p align="center">
-  <p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-65446c87c81b.gif"></p>
-  
   <samp>
+    <img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-65446c87c81b.gif">
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
