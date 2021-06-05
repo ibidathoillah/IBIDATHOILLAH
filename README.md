@@ -26,7 +26,6 @@
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
-<p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></p>
 <details align="center">
    <summary> <samp>&#9776; View My Favorites</samp></summary>
   
@@ -35,10 +34,8 @@
     <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
   </p>
 </details>
-<p align="center">
-    ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
-  </p>
+<p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></p>
+
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
   </p>
