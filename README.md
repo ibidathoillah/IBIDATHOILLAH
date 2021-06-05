@@ -1,5 +1,5 @@
 <p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-3df15131b494.gif"></p>
-<h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.google.com/logos/2016/halloween16/halloween16.html?hl=en">Ibid Athoillah</a><a href="https://www.google.com/logos/2017/vday17/vday17-27917071.html?hl=en"><img style="float:left" width="50" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
+<h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.google.com/logos/2016/halloween16/halloween16.html?hl=en">Ibid Athoillah</a><a href="https://www.google.com/logos/2017/vday17/vday17-27917071.html?hl=en"><img style="float:left" width="30" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
 <p align="center"><br>
   <samp>
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
