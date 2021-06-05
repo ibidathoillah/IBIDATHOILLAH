@@ -40,3 +40,5 @@
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
   </p>
 </samp>
+<p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-5148dbacb0fd.gif"></p>
+
