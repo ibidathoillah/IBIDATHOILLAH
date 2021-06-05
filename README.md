@@ -35,8 +35,6 @@
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
     <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
   </p>
-
-    <br>
 </details>
 <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></a></p>
 
