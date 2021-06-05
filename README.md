@@ -1,4 +1,4 @@
-<h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ibidathoillah.dev">Ibid Athoillah</a><a href="#"><img style="float:left" width="50" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
+<h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ibidathoillah.dev">Ibid Athoillah</a><a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en"><img style="float:left" width="50" src="https://www.keyshapeapp.com/images/heart.svg"></img></a></b></samp></h3> 
 <p align="center"><br>
   <samp>
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
