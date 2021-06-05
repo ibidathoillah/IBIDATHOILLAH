@@ -4,10 +4,7 @@
   <samp>
     「 Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> 」<br>
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
-    「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
-      <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
-    <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
-    <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
+    「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 
   </samp>
 </p>
 <details align="center">
