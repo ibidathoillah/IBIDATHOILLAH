@@ -24,17 +24,22 @@
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
-  </samp>
   </p>
 </details>
 <p  align="center"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></p>
-<samp>
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+  
+ <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
+    <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
+    <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
   <p align="center">
+</details>
     ════ ⋆★⋆ ════<br>
     From <a href="https://github.com/ibidathoillah/ibidathoillah">ibidathoillah</a><br>
   </p>
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a>
   </p>
-</samp>
+
 
