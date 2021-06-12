@@ -54,7 +54,6 @@
 
   </details>
     
-    </code>
 </details>
 <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></a></p>
 
