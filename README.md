@@ -35,7 +35,6 @@
 </details>
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
-  
   <code></code>
     <details>
       <summary> <samp><code>Relaxing</code></samp></summary>
