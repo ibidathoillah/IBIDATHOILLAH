@@ -47,7 +47,6 @@
     
   <details>
     <summary> <samp><code>Top 3 Favorites Anime</code></samp></summary>
-<p></p>    
 | Steins;Gate | Code Geass | SNAFU |
 | -----------: | -----------: | -----------: |
 | <img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"> |
