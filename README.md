@@ -35,6 +35,8 @@
 </details>
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
+  
+  <code>
     <details>
       <summary> <samp><code>Relaxing</code></samp></summary>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
@@ -51,6 +53,8 @@
 | <img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"> |
 
   </details>
+    
+    </details>
 </details>
 <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></a></p>
 
