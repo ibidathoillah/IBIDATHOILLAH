@@ -36,6 +36,12 @@
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>
   <p><b>Top 3 Favorites Anime</b></p>
+  
+  | Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+  
   <p><img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"><img src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"></p>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
