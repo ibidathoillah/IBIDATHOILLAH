@@ -36,7 +36,7 @@
 </details>
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
-  <code></code>
+
     <details>
       <summary> <samp><code>Relaxing</code></samp></summary>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
