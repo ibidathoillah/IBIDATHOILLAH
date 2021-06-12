@@ -20,7 +20,8 @@
    <p align="center">
      <br>
       <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+      >
+     href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
@@ -37,7 +38,7 @@
    <summary> <samp>Favorites Music & Games</samp></summary>  
   <code></code>
     <details>
-      <summary> <samp><a><code>Relaxing</code></samp></a></summary>
+      <summary> <samp><code><a href="#">Relaxing</a></code></samp></summary>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
     <p align="center">Have you heard ‘Queen - Loren Gray’ by <a target="_blank" href="https://soundcloud.com/adairity">adairity</a>? ᐅ Yes or ᐅ <a target="_blank" href="https://soundcloud.com/adairity/queen-loren-gray"> No, Never!</a> </p>
     <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
