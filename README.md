@@ -20,8 +20,7 @@
    <p align="center">
      <br>
       <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      
-     <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+      <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
@@ -36,7 +35,8 @@
 </details>
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
-
+  
+  <code>
     <details>
       <summary> <samp><code>Relaxing</code></samp></summary>
  <p align="center">Bro, Sometimes you need to cool things ᐅ <a target="_blank" href="https://www.youtube.com/watch?v=yr3f5FCIFMI">Don't click Me!<a/></p>
@@ -44,8 +44,10 @@
     <p align="center">Wanna play some coding game? ᐅ <a href="https://www.google.com/logos/2017/logo17/logo17.html?hl=en">Yes, of course</a> | ᐅ No </p>
   </details>
 
+    
   <details>
     <summary> <samp><code>Top 3 Favorites Anime</code></samp></summary>
+
   | Steins;Gate | Code Geass | SNAFU |
 | -----------: | -----------: | -----------: |
 | <img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"> |
