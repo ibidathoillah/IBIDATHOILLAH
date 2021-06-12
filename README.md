@@ -48,7 +48,7 @@
 
   | Steins;Gate | Code Geass | SNAFU |
 | ---: | -----------: | ---: |
-| <img     width="100%" src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img width="100%" src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img width="100%" src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"> |
+| <img     width="55%" src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img width="55%" src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img width="55%" src="https://cdn.myanimelist.net/images/anime/11/49459.jpg"> |
 
   </details>
 </details>
