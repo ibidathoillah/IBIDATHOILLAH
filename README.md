@@ -36,8 +36,8 @@
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>
   
-  <details>
-  <summary> <samp><b>Top 3 Favorites Anime</b></samp></summary>
+  <details align="right">
+  <summary> <samp>Top 3 Favorites Anime</samp></summary>
   
   | Steins;Gate | Code Geass | SNAFU |
 | --- | ----------- | --- |
