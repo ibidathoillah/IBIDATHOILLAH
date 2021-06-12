@@ -51,7 +51,7 @@
     
 | Steins;Gate | Code Geass | Monogatari Series |
 | -----------: | -----------: | -----------: |
-| <img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"> | <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> | <img src="https://cdn.myanimelist.net/images/manga/5/173535.jpg"> |
+| <a href="https://www.youtube.com/watch?v=uMYhjVwp0Fk"><img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"></a> | <a href="https://www.youtube.com/watch?v=v-AGjx0N24U"> <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> </a> | <a href="https://www.youtube.com/watch?v=ZIziNssFnHg"> <img src="https://cdn.myanimelist.net/images/manga/5/173535.jpg"></a> |
   </details>
     
 </details>
