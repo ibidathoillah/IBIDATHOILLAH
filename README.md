@@ -8,7 +8,6 @@
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
-  <img width="300" src="https://image.thum.io/get/maxAge/12/width/1024/https://bit.ly/35Ngi7E">
 </p>
 <details>
   <summary> <samp>Statistics & Resume </samp></summary>
