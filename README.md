@@ -18,7 +18,6 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" /
 </p>
    <p align="center">
-     <br><br>
        Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Resumé</a><br>
           <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br>
            <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
