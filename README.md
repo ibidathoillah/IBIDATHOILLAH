@@ -27,8 +27,9 @@
       <a href="https://github.com/ibidathoillah?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br><br>
-     <p align="center"><img width="400" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></p>
-    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Resumé</a><br>
+         <p align="center">Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Resumé</a></p><br>
+     <p align="center"><img width="200" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></p>
+
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
