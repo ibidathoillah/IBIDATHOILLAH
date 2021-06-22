@@ -12,6 +12,7 @@
 </p>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
+  <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/photon-hr.svg"></a></p>
   <p align="center">       * 👑   Some GitHub statistical reports:</p>
 <p align="center">
   
