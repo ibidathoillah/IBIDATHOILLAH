@@ -52,7 +52,7 @@
   </code>
     <details>
       <summary> <samp><code>Conquer Online Memory 2014</code></samp></summary>
-      <p>The best game i ever played, its seems like another world for life battles, buy and sell item, alchemy, being a merchant, gambling, doing quest, secret quest, hidden quest, rare quest, item quest. Of course just like real life there a lot of problem, like assassination or PK, stealing item, hacking, cheating, lying, scamming, meet a lot of people, make a friends, giving, sharing, teaching, build a guild, raid, summoning, rebirth, leveling and a lot of more! LOVED! Best gameplay!</p>
+      <p>The best game i ever played, its seems like another world for life battles, buy and sell item, alchemy, being a merchant, gambling, doing quest, secret quest, hidden quest, rare quest, item quest. Of course just like real life there a lot of problem, like assassination or PK, stealing item, hacking, cheating, lying, scamming, meet a lot of people, make a friends, giving, sharing, teaching, build a guild, raid, summoning, rebirth, leveling and a lot of more! LOVED! Best gameplay! the gameplay just like Log Horizon but Conquer Online still better in memory</p>
       <p><img src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/10688414_858371767515977_448408225777900252_o.jpg"/></p>
   </details>
   
