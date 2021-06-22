@@ -10,6 +10,8 @@
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
 </p>
+<br>
+<br>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
   <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/photon-hr.svg"></a></p>
