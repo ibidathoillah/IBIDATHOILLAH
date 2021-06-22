@@ -14,7 +14,6 @@
 <br>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
-<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(4).gif"></a></p>
   <p align="center">       * 👑   Some GitHub statistical reports:</p>
 <p align="center">
   
@@ -61,7 +60,7 @@
   </details>
     
 </details>
-<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(3).gif"></a></p>
+<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(1).gif"></a></p>
 
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a> | <a href="https://www.youtube.com/watch?v=FtutLA63Cp8"> Play Bad Apple! </a>
