@@ -10,7 +10,7 @@
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
 </p>
-<details>
+<!-- <details> -->
   <summary> <samp>Statistics & Resume </samp></summary>
   <p align="center">       * 👑   Some GitHub statistical reports:</p>
 <p align="center">
@@ -35,7 +35,7 @@
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
 
   </p>
-</details>
+<!-- </details> -->
 <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
   
