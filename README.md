@@ -51,7 +51,7 @@
   
     <details>
       <summary> <samp><code>Conquer Online Memory 2014</code></samp></summary>
-      <img src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/10688414_858371767515977_448408225777900252_o.jpg"/>
+      <p><img src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/10688414_858371767515977_448408225777900252_o.jpg"/></p>
   </details>
 
     
