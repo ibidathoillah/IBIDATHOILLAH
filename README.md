@@ -15,9 +15,9 @@
 <p align="center">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="center" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" /
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="center" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a>
 </p>
    <p align="center">
                 <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
