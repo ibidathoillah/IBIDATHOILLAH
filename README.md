@@ -14,7 +14,7 @@
 <br>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
-  <p align="left">       * 👑   Some GitHub statistical reports:</p>
+  <p align="left"></p>
 <p align="center">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=27&layout=compact" />
