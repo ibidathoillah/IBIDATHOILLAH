@@ -19,7 +19,7 @@
 </p>
    <p align="center">
      <br>
-     <img width="50" src="//image.thum.io/get/https://image.thum.io/get/https://bit.ly/35Ngi7E">
+     <img width="50" src="https://image.thum.io/get/https://bit.ly/35Ngi7E">
       <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
