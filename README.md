@@ -14,7 +14,7 @@
 <br>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
-  <p  align="left"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="60%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/hero-bg.svg"></a></p>
+  <p  align="left"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img height="60%" width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/hero-bg.svg"></a></p>
   <p align="center">       * 👑   Some GitHub statistical reports:</p>
 <p align="center">
   
