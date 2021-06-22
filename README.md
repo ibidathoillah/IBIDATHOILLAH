@@ -11,7 +11,7 @@
   </samp>
 </p>
 <!-- <details> -->
-  <summary> <samp>Statistics & Resume </samp></summary>
+  <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
   <p align="center">       * 👑   Some GitHub statistical reports:</p>
 <p align="center">
   
