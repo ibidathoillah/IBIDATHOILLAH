@@ -31,6 +31,7 @@
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
+     <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a>
   </p>
 </details>
 <details>
