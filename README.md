@@ -57,7 +57,7 @@
   </details>
     
 </details>
-<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-ade8a882477a.gif"></a></p>
+<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(2).gif"></a></p>
 
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a> | <a href="https://www.youtube.com/watch?v=FtutLA63Cp8"> Play Bad Apple! </a>
