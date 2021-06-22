@@ -1,6 +1,6 @@
 
 
-<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://github.com/ibidathoillah/ibidathoillah/raw/master/ezgif-1-3df15131b494.gif"></a></p>
+<p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(1).gif"></a></p>
 <h3 align="center"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Ibid Athoillah</a></b></samp></h3> 
 <p align="center">
   <samp>
@@ -154,5 +154,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
