@@ -38,7 +38,7 @@
 
   </p>
 <!-- </details> -->
-<details>
+<!-- <details>
    <summary> <samp>Favorites Music & Games</samp></summary>  
   
   <code></code>
@@ -65,7 +65,7 @@
 | -----------: | -----------: | -----------: |
 | <a href="https://www.youtube.com/watch?v=uMYhjVwp0Fk"><img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"></a> | <a href="https://www.youtube.com/watch?v=v-AGjx0N24U"> <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> </a> | <a href="https://www.youtube.com/watch?v=ZIziNssFnHg"> <img src="https://cdn.myanimelist.net/images/manga/5/173535.jpg"></a> |
   </details>
-</details>
+</details> -->
 <p  align="center"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(5).gif"></a></p>
 
   <p align="right">
