@@ -16,11 +16,11 @@
   <p align="left"></p>
 <p align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=27&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
+<img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
 </p>
-   <p align="center">
+   <p >
                 <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
