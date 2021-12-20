@@ -17,8 +17,9 @@
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=27&layout=compact" />
+<p></p>
 <img  src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
-  </p>
+<p></p>
 <img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
 </p>
    <p align="center">
