@@ -8,8 +8,11 @@
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
-</p>
-<br>
+
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
+     <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+     <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+     <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
 <br>
 <!-- <details> -->
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
@@ -34,12 +37,6 @@
       <a href="https://github.com/ibidathoillah?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br><br>
-       Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Resumé</a><br>
-<a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
-     <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-     <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
-
   </p>
 <!-- </details> -->
 <!-- <details>
@@ -70,8 +67,6 @@
 | <a href="https://www.youtube.com/watch?v=uMYhjVwp0Fk"><img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"></a> | <a href="https://www.youtube.com/watch?v=v-AGjx0N24U"> <img src="https://cdn.myanimelist.net/images/anime/5/50331.jpg"> </a> | <a href="https://www.youtube.com/watch?v=ZIziNssFnHg"> <img src="https://cdn.myanimelist.net/images/manga/5/173535.jpg"></a> |
   </details>
 </details> -->
-<br>
-<br>
 <!-- <p  align="justify"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(3).gif"></a></p>
  -->
   <p align="right">
