@@ -6,7 +6,7 @@
   <samp>
      Bachelor Degree Computer Science of <a target="_blank"  href="https://dinus.ac.id/"><b>@University of Dian Nuswantoro</b></a> <br>
      Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
-     Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> <br>
+     Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a>, <a target="_blank"  href="https://superapp.id/"> @superapp</a> <br>
   </samp>
 <p align="left">
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
