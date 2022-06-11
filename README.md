@@ -8,27 +8,29 @@
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
-
+<p align="center">
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=profile%20updated&style=flat-square"></a>
+</p>
 <br>
 <!-- <details> -->
-  <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
-  <p align="left"></p>
-<p align="justify">
+<h3 align="right"><samp>Statistics & Resume </samp></h3>
+
+  <p align="right"></p>
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=10&layout=compact" />
 </p>
 <p></p>
-<p align="justify">
+<p align="right">
 <img  src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
 </p>
 <p></p>
-<p align="justify">
+<p align="right">
 <img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
 </p>
-   <p align="justify">
+   <p align="right">
                 <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
