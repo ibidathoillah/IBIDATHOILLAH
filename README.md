@@ -18,7 +18,7 @@
   <h3><summary> <samp>Statistics & Resume </samp></summary></h3>
   <p align="left"></p>
 <p align="justify">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=27&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=10&layout=compact" />
 </p>
 <p></p>
 <p align="justify">
