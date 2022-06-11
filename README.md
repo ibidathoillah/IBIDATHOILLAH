@@ -6,6 +6,7 @@
   <samp>
      Bachelor Degree Computer Science of <a target="_blank"  href="https://dinus.ac.id/"><b>@University of Dian Nuswantoro</b></a> <br>
      Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
+     --
      Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a>, <a target="_blank"  href="https://superapp.id/"> @superapp</a> <br>
   </samp>
 <p align="left">
