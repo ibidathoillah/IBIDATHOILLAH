@@ -26,7 +26,7 @@
 </p>
 <p></p>
 <p align="justify">
-<img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=10" alt="ibidathoillah's Github Trophy" />
+<img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
 </p>
    <p align="justify">
                 <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
