@@ -8,7 +8,7 @@
     「 Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> 」<br>
     「 Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> 」<br>
   </samp>
-<p align="center">
+<p align="left">
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
@@ -16,21 +16,21 @@
 </p>
 <br>
 <!-- <details> -->
-<h3 align="right"><samp>Statistics & Resume </samp></h3>
+<h3 align="left"><samp>Statistics & Resume </samp></h3>
 
-  <p align="right"></p>
-<p align="right">
+  <p align="left"></p>
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidathoillah&theme=default&line_height=10&layout=compact" />
 </p>
 <p></p>
-<p align="right">
+<p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=ibidathoillah&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="ibidathoillah's Github Stats" />
 </p>
 <p></p>
-<p align="right">
+<p align="left">
 <img  src="https://github-profile-trophy.vercel.app/?username=ibidathoillah&column=7" alt="ibidathoillah's Github Trophy" />
 </p>
-   <p align="right">
+   <p align="left">
                 <a href="https://github.com/ibidathoillah?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/ibidathoillah?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
@@ -56,7 +56,7 @@
     <details>
       <summary> <samp><code>Conquer Online Memories 2014</code></samp></summary>
       <p></p>
-      <p>The Best game i ever played, its seems like another world to life. We do battles, buy and sell item, alchemy, being a merchant, gambling, doing quest, secret quest, hidden quest, rare quest, item quest, summoning, rebirth, finding rare items and enhance or do experiment like combine, etc. Of course just like real life there a lot of problem, like assassination or PK, stealing item, hacking, cheating, lying, scamming, meet a lot of people, make a friends, giving, sharing, teaching, build a guild, raid, tournament, capture the flag, finding gold coin in the sea, killing each other to get rain coin, horse racing, leveling the char and item aaah and a lot a lot of more! LOVED! Best gameplay! the gameplay just like Log Horizon but Conquer Online still better in memories. The player mostly from egypt here is their <a href="https://web.facebook.com/ConquerOnline/videos/4026554347459114/">review</a>, my friend in game. Right now not only Conquer Online, the MMORPG games always ruined by Pay to win. Hopes in the future the game developer found better gameplay system to get profit.</p>
+      <p>The Best game i ever played, its seems like another world to life. We do battles, buy and sell item, alchemy, being a merchant, gambling, doing quest, secret quest, hidden quest, rare quest, item quest, summoning, rebirth, finding rare items and enhance or do experiment like combine, etc. Of course just like real life there a lot of problem, like assassination or PK, stealing item, hacking, cheating, lying, scamming, meet a lot of people, make a friends, giving, sharing, teaching, build a guild, raid, tournament, capture the flag, finding gold coin in the sea, killing each other to get rain coin, horse racing, leveling the char and item aaah and a lot a lot of more! LOVED! Best gameplay! the gameplay just like Log Horizon but Conquer Online still better in memories. The player mostly from egypt here is their <a href="https://web.facebook.com/ConquerOnline/videos/4026554347459114/">review</a>, my friend in game. left now not only Conquer Online, the MMORPG games always ruined by Pay to win. Hopes in the future the game developer found better gameplay system to get profit.</p>
       <p><img src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/10688414_858371767515977_448408225777900252_o.jpg"/></p>
   </details>
   
@@ -71,7 +71,7 @@
 </details> -->
 <!-- <p  align="justify"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(3).gif"></a></p>
  -->
-  <p align="right">
+  <p align="left">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a> | <a href="https://www.youtube.com/watch?v=FtutLA63Cp8"> Play Bad Apple! </a>
   </p>
   
