@@ -4,8 +4,8 @@
 <h3 align="justify"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Ibid Athoillah</a></b></samp></h3> 
 <p align="justify">
   <samp>
-     Bachelor Degree Computer Science of @ 🐦 <b>Dian Nuswantoro University</b> <br>
-     Student Exchange  Computer Science of @ 🐦 <b>Universiti Utara of Malaysia</b> <br>
+     Bachelor Degree Computer Science of <a target="_blank"  href="https://dinus.ac.id/">@ <b>Dian Nuswantoro University</b></a> <br>
+     Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/">@ <b>Universiti Utara of Malaysia</b></a> <br>
      Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a> <br>
   </samp>
 <p align="left">
