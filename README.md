@@ -11,9 +11,9 @@
 <p align="left">
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html"><img width="200" align="justify" src="https://image.thum.io/get/https://bit.ly/35Ngi7E"/></a><br><br>
      <a href="https://github.com/ibidathoillah?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/years/ibidathoillah?label=Experience"/></a>
+    <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/years/ibidathoillah?label=Git%20Member%20In%20Year"/></a>
+       <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/commits/monthly/ibidathoillah?label=Total%20Commit%20In%20Month"/></a>
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=Profile%20Visitor&color=success&logoColor=white&style=flat-square"/></a>
-       <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/commits/monthly/ibidathoillah"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=Profile%20Updated&style=flat-square"></a>
 </p>
 <!-- <details> -->
