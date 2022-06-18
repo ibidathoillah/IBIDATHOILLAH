@@ -6,7 +6,8 @@
   <samp>
      Bachelor Degree Computer Science of <a target="_blank"  href="https://dinus.ac.id/"><b>@University of Dian Nuswantoro</b></a> <br>
      Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
-     <br>
+     <!--    <br>
+
      Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a>, <a target="_blank"  href="https://superapp.id/"> @superapp</a> <br>
   </samp>
 <p align="left">
@@ -17,6 +18,7 @@
      <a href="https://github.com/ibidathoillah" target="_blank"><img alt="ibidathoillah" src="https://badges.pufler.dev/visits/ibidathoillah/ibidathoillah?logo=GitHub&label=Profile%20Visitor&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=Profile%20Updated&style=flat-square"></a>
 </p>
+-->
 <!-- <details> -->
 <h3 align="left"><samp>Statistics & Resume </samp></h3>
 
@@ -73,6 +75,8 @@
 </details> -->
 <!-- <p  align="justify"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(3).gif"></a></p>
  -->
+    
+    -->
   <p align="right">
     <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a> | <a href="https://www.youtube.com/watch?v=FtutLA63Cp8"> Play Bad Apple! </a>
   </p>
