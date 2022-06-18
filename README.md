@@ -19,7 +19,7 @@
      <a href="https://github.com/ibidathoillah/ibidathoillah" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ibidathoillah/ibidathoillah?label=Profile%20Updated&style=flat-square"></a>
 </p>
 -->
-<!-- <details> -->
+<!-- <details> 
 <h3 align="left"><samp>Statistics & Resume </samp></h3>
 
   <p align="left"></p>
