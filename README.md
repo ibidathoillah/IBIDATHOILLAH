@@ -14,7 +14,3 @@
     <p align="center">
 
 <img src="https://gist.githubusercontent.com/ibidathoillah/020148bd12965370f1ec077fe474cef9/raw/c1960d190f8b8b02f338b17e6580d6f864dfa806/source.gif"/>
-<img src="https://gist.githubusercontent.com/ibidathoillah/020148bd12965370f1ec077fe474cef9/raw/17e042f148712b815216a846223ee70de576bf82/%25E2%2580%2594Pngtree%25E2%2580%2594pause%2520icon_4490522.png" alt="—Pngtree—pause icon_4490522.png" style="
-    width: 150px;
-">
-</p>
