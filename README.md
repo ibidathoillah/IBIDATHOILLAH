@@ -2,7 +2,7 @@
 <samp>
   Bachelor Degree Computer Science of <a target="_blank" href="https://dinus.ac.id/"><b>@University of Dian Nuswantoro</b></a> <br>
   Student Exchange Computer Science of <a target="_blank" href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
-</samp>
+</samp><br/>
 <p align="right">
 <a href="mailto:ibidathoillah@gmail.com"> Send a mail </a> | <a href="https://api.whatsapp.com/send?phone=62895328338770"> Whatsapp </a> | <a href="https://www.youtube.com/watch?v=FtutLA63Cp8"> Play Bad Apple! </a>
 </p><br/>
